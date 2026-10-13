@@ -288,9 +288,11 @@ elif page == "AI Engineering Assistant":
 
 st.markdown("---")
 st.caption("MixWise AI · Student project for Data Analytics for Civil Engineering · Dataset: UCI Concrete Compressive Strength (Yeh, 1998), CC BY 4.0.")
-
-
-
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Developed by")
-st.sidebar.markdown("**Jeevitha B.** \nB.Tech Civil Engineering Student")
+st.sidebar.markdown("**Jeevitha B.**")
+st.sidebar.markdown("B.Tech Civil Engineering")
+st.sidebar.markdown("SASTRA Deemed University")
+
+
+
